@@ -8,24 +8,20 @@ Welcome to my computer vision learning repository. This project showcases variou
 
 ### 1. Basic Functions (Basic_Function/)
 Core image processing techniques including:
-* Grayscale Conversion: result_Gray.png
-* Blurring: result_blur.png
-* Edge Detection: Result_Canny.png
-* Dilation & Erosion: result_dilated.png & result_eroder.png
+* Grayscale Conversion: ![Gray](Basic_Function/result_Gray.png)
+* Blurring: ![Blur](Basic_Function/result_blur.png)
+* Edge Detection: ![Canny](Basic_Function/Result_Canny.png)
+* Dilation & Erosion: ![Dilated](Basic_Function/result_dilated.png) & ![Eroder](Basic_Function/result_eroder.png)
 
 ### 2. Geometric Transformations (05_Translation/ & 02_Rescale/)
-Techniques for manipulating image orientation and size:
-* Translation: Shifting images (result_translated.png)
-* Rotation: Rotating images (result_rotated.png)
-* Flipping: Mirroring images (result_flip.png)
-* Resizing: Scaling images (rescale.png & resized.png)
+* Translation: ![Translated](05_Translation/result_translated.png)
+* Rotation: ![Rotated](05_Translation/result_rotated.png)
+* Flipping: ![Flip](05_Translation/result_flip.png)
+* Resizing: ![Rescale](02_Rescale/rescale.png) & ![Resized](05_Translation/resized.png)
 
 ### 3. Drawing and Shapes (draw_and_line/)
-Using OpenCV to create graphics:
-* Drawing lines, circles, and rectangles.
-* Adding custom text overlays (put_text.png).
-
----
+* Custom Text: ![Text](draw_and_line/put_text.png)
+* Shapes: ![Circle](draw_and_line/Circle.png)
 
 ## 📸 Visual Gallery
 
