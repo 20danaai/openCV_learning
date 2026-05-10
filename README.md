@@ -1,42 +1,4 @@
-# OpenCV Learning Journey 🚀
-
-Welcome to my computer vision learning repository. This project showcases various image processing techniques implemented using Python and the OpenCV library.
-
----
-
-## 📂 Project Structure & Features
-
-### 1. Basic Functions (Basic_Function/)
-Core image processing techniques including:
-* Grayscale Conversion: ![Gray](Basic_Function/result_Gray.png)
-* Blurring: ![Blur](Basic_Function/result_blur.png)
-* Edge Detection: ![Canny](Basic_Function/Result_Canny.png)
-* Dilation & Erosion: ![Dilated](Basic_Function/result_dilated.png) & ![Eroder](Basic_Function/result_eroder.png)
-
-### 2. Geometric Transformations (05_Translation/ & 02_Rescale/)
-* Translation: ![Translated](05_Translation/result_translated.png)
-* Rotation: ![Rotated](05_Translation/result_rotated.png)
-* Flipping: ![Flip](05_Translation/result_flip.png)
-* Resizing: ![Rescale](02_Rescale/rescale.png) & ![Resized](05_Translation/resized.png)
-
-### 3. Drawing and Shapes (draw_and_line/)
-* Custom Text: ![Text](draw_and_line/put_text.png)
-* Shapes: ![Circle](draw_and_line/Circle.png)
-
-## 📸 Visual Gallery
-
-| Feature | Result Preview |
-| :--- | :--- |
-| Canny Edges | ![Canny](Basic_Function/Result_Canny.png) |
-| Flipped Image | ![Flipped](05_Translation/result_flip.png) |
-| Rotated Image | ![Rotated](05_Translation/result_rotated.png) |
-| Custom Text | ![Text](draw_and_line/put_text.png) |
-| Shapes | ![Shapes](draw_and_line/Circle.png) |
-
----
-
-## 🛠️ How to Run
-1. Install OpenCV: pip install opencv-python
-2. Run any script, for example:
-   `bash
-   python Basic_Function/basic.py
+👋 Welcome to my OpenCV Learning Journey!
+Hi, I'm Dania! I am currently learning OpenCV with Python. I'm at the beginning of my journey, mastering the basics and aiming to become a Computer Vision expert. My goals include securing a Master’s scholarship and working at top-tier tech companies.
+I share my code along with visual results to track my progress. If you find my work helpful or have any advice to share, I’d love to connect!
+📩 Connect with me on LinkedIn:[Dania's profile](https://www.linkedin.com/in/dana-dana-250894407)
